@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{167AF08B-1096-40C7-A3A5-6683E786D22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponglonia", "Ponglonia\Ponglonia.csproj", "{531440F2-3086-4EB4-8CD0-C211F6DFA4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167AF08B-1096-40C7-A3A5-6683E786D22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167AF08B-1096-40C7-A3A5-6683E786D22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167AF08B-1096-40C7-A3A5-6683E786D22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167AF08B-1096-40C7-A3A5-6683E786D22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531440F2-3086-4EB4-8CD0-C211F6DFA4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531440F2-3086-4EB4-8CD0-C211F6DFA4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531440F2-3086-4EB4-8CD0-C211F6DFA4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531440F2-3086-4EB4-8CD0-C211F6DFA4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
